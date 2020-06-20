@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Matriz {
+namespace Matrix {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Enter the number of lines:");

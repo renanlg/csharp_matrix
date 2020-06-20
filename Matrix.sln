@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz", "Matriz\Matriz.csproj", "{085923E8-6489-475C-BEA0-D383872C882C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix", "Matrix\Matrix.csproj", "{085923E8-6489-475C-BEA0-D383872C882C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
